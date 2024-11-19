@@ -10,3 +10,4 @@ Currently, two official plugins are available:
 # Hackathon_Expenses
 # Expense_Site
 # Expense_Site
+# Expense_Site
